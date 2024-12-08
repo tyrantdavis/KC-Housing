@@ -1,4 +1,6 @@
-# KC-Housing Project
+# [KC-Housing Project](https://nbviewer.org/github/tyrantdavis/KC-Housing/blob/main/housing.ipynb)
+
+Click the link above to see the project demo.
 
 ## Introduction
 The goal of this project is to analyze housing data from King County, Washington, particularly around various attributes for the homes observed in the area and their prices.
