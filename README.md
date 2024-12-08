@@ -44,5 +44,22 @@ regression model.
 ## Data
 An anonymized dataset that can be used to train the machine-learning model has been found. It is a CSV file containing more than 20,000 real estate transactions conducted in King County, Washington. 
 
+## Conclusions
 
+- Which attribute has the greatest influence on price?
+    - sqft_living is the feature that has the greatest correlation to price 
+- What are some other attributes that have a strong influence on price?
+    - grade and sqft_above 
+- What patterns seem to exist regarding house prices and location?
+    - Expensive homes appear clustered around the lakes in Bellvue and Seattle, Lake Washington, and Lake Sammamish. Some expensive homes are not on the lake, however. Less expensive homes tend to be located in areas other than Bellvue and Seattle such as Federal Way, Auburn, Covington, Maple Valley, and Enumclaw - the southern sector of the county. 
+- What is the maximum house price in the dataset?
+    - The maximum price for a home in this dataset is $7,700,000 
+- What are the features of the typical house in the dataset?
+  
+  The typical house:
+
+    Does not have a "view" and is not on the waterfront.
+    Has a grade of 7.
+    Has a zipcode of 98103.
+    Has 3 bedrooms, 2.5 bathrooms, and 1 floor level.
 
